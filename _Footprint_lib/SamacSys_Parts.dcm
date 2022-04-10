@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP A262A3E
+D Transformer,audio,PCB mount,ratio 1+1:6.45+6.45
+K
+F https://componentsearchengine.com/Datasheets/2/A262A3E.pdf
+$ENDCMP
+#
+$CMP 2M1-DP1-T1-B1-M2QE
+D DP Toggle Switch On-None-On, 5 A, Panel Mount
+K
+F http://www.carlingtech.com/sites/default/files/documents/Carling-MTS-2M-Series.pdf
+$ENDCMP
+#
+#End Doc Library
